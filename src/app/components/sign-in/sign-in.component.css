@@ -1,0 +1,13 @@
+  
+/* styles.css (o tu archivo de estilos personalizado) */
+
+/* Estilo normal del enlace */
+.white-link {
+    color: white;
+    text-decoration: none; /* Quitamos el subrayado por defecto */
+  }
+  
+  /* Estilo cuando el mouse está encima del enlace */
+  .white-link:hover {
+    text-decoration: underline; /* Añadimos el subrayado cuando el mouse está encima */
+  }
